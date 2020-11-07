@@ -1,0 +1,13 @@
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\obj\Debug\Grades.DataModel.csprojAssemblyReference.cache
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD09_LAK\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
